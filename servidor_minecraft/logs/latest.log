@@ -1210,3 +1210,51 @@ java.net.http.HttpTimeoutException: request timed out
 [24Aug2025 23:19:50.226] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [24Aug2025 23:19:52.211] [Worker-Main-32/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
 [24Aug2025 23:20:32.531] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2252, y=-26, z=-5314}
+[24Aug2025 23:21:00.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:21:09.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:21:11.979] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[24Aug2025 23:21:12.149] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2049, y=-5, z=-5422}
+[24Aug2025 23:21:14.350] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1849, y=33, z=-5415}
+[24Aug2025 23:21:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Bluff
+[24Aug2025 23:21:20.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[24Aug2025 23:21:20.998] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[24Aug2025 23:21:21.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[24Aug2025 23:21:21.011] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[24Aug2025 23:21:21.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[24Aug2025 23:21:21.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[24Aug2025 23:21:21.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/exposure/block/entity/Lightroom$Process
+[24Aug2025 23:21:28.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[24Aug2025 23:21:34.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[24Aug2025 23:21:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:22:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:22:16.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[24Aug2025 23:22:16.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[24Aug2025 23:22:24.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.119.90.33:52113] logged in with entity id 2378 at (-1895.686629243144, 181.0, -5121.470053300177)
+[24Aug2025 23:22:24.117] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player OmegaQesm_
+[24Aug2025 23:22:24.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[24Aug2025 23:23:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:23:09.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:23:29.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[24Aug2025 23:23:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:23:30.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:23:36.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Bluff
+[24Aug2025 23:23:50.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[24Aug2025 23:24:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:24:11.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:24:13.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[24Aug2025 23:24:14.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Spectator Mode]
+[24Aug2025 23:24:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:26:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:26:10.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:26:14.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved wrongly!
+[24Aug2025 23:26:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo was slain by Bluff
+[24Aug2025 23:26:54.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Teleported DMkingo to OmegaQesm_]
+[24Aug2025 23:27:38.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:27:40.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:27:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[24Aug2025 23:28:06.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:29:53.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:30:31.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[24Aug2025 23:30:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:30:50.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:31:40.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
