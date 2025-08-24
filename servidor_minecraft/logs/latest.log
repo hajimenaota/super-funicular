@@ -1258,3 +1258,70 @@ java.net.http.HttpTimeoutException: request timed out
 [24Aug2025 23:30:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
 [24Aug2025 23:30:50.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
 [24Aug2025 23:31:40.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[24Aug2025 23:33:39.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:33:49.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:34:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:34:38.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:34:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[24Aug2025 23:34:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:34:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:34:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Spectator Mode]
+[24Aug2025 23:34:52.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:34:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:35:19.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved wrongly!
+[24Aug2025 23:35:43.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:35:44.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:35:44.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bluff Rod] to OmegaQesm_]
+[24Aug2025 23:35:49.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:35:50.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:35:59.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[24Aug2025 23:36:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Spectator Mode]
+[24Aug2025 23:36:09.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lafizamovie[/127.62.201.123:55903] logged in with entity id 14793 at (177.08627383352317, 115.0, -445.69999998807907)
+[24Aug2025 23:36:09.544] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player lafizamovie
+[24Aug2025 23:36:09.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie joined the game
+[24Aug2025 23:36:11.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[24Aug2025 23:36:13.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:36:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[24Aug2025 23:36:21.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported lafizamovie to OmegaQesm_]
+[24Aug2025 23:37:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Spectator Mode]
+[24Aug2025 23:37:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by lafizamovie
+[24Aug2025 23:37:11.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:37:12.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[24Aug2025 23:38:01.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lafizamovie moved too quickly! 2101.411933352919,-49.4375,4661.5103064534815
+[24Aug2025 23:38:04.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved too quickly! 2107.674821455952,-51.9375,4657.855175465686
+[24Aug2025 23:38:12.853] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[24Aug2025 23:38:42.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo moved too quickly! -0.122350543588027,-11.619850084824236,0.03840121064604318
+[24Aug2025 23:38:49.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[24Aug2025 23:38:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Liquid Engine] to OmegaQesm_]
+[24Aug2025 23:39:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Lava Bucket] to OmegaQesm_]
+[24Aug2025 23:39:13.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:39:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Spectator Mode]
+[24Aug2025 23:39:18.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Lava Bucket] to OmegaQesm_]
+[24Aug2025 23:39:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:39:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Lava Bucket] to OmegaQesm_]
+[24Aug2025 23:39:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Lava Bucket] to OmegaQesm_]
+[24Aug2025 23:40:16.038] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[24Aug2025 23:40:16.294] [Worker-Main-10/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[24Aug2025 23:40:16.944] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[24Aug2025 23:40:16.952] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[24Aug2025 23:40:16.969] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[24Aug2025 23:40:19.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Mutant Zombie
+[24Aug2025 23:40:24.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo moved too quickly! -0.7904822588004663,-10.55631457359479,-0.018165030568525253
+[24Aug2025 23:40:26.296] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[24Aug2025 23:40:30.127] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19217, l='ServerLevel[world]', x=145.93, y=115.00, z=-475.30] died, message: 'Villager was slain by Mutant Zombie'
+[24Aug2025 23:40:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Spectator Mode]
+[24Aug2025 23:40:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[24Aug2025 23:40:48.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo moved too quickly! 0.0,-11.523684986416669,0.0
+[24Aug2025 23:40:59.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lafizamovie moved too quickly! 0.5731155058945205,1.0448124203990243,-10.043442198956654
+[24Aug2025 23:40:59.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to lafizamovie]
+[24Aug2025 23:40:59.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[24Aug2025 23:41:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[24Aug2025 23:41:35.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1562, y=6, z=-3846} BlockPos{x=1562, y=4, z=-3846}
+[24Aug2025 23:41:36.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1562, y=6, z=-3841} BlockPos{x=1562, y=4, z=-3841}
+[24Aug2025 23:41:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie suffocated in a wall
+[24Aug2025 23:41:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to lafizamovie]
+[24Aug2025 23:41:58.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21600, l='ServerLevel[world]', x=140.56, y=115.00, z=-488.50] died, message: 'Farmer was slain by Zombie Villager'
+[24Aug2025 23:42:37.561] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[24Aug2025 23:42:47.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[24Aug2025 23:42:48.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie blew up
+[24Aug2025 23:42:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
