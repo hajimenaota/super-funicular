@@ -1334,6 +1334,7 @@
       "minecraft:creeper": "2025-08-23 21:24:48 +0000",
       "minecraft:cave_spider": "2025-08-24 00:16:00 +0000",
       "minecraft:enderman": "2025-08-23 20:06:10 +0000",
+      "minecraft:silverfish": "2025-08-25 00:50:22 +0000",
       "minecraft:zombie": "2025-08-23 20:54:06 +0000",
       "minecraft:zombie_villager": "2025-08-23 21:11:34 +0000"
     },
@@ -4630,6 +4631,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-25 00:32:55 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/lights_up": {
+    "criteria": {
+      "flash_in_darkness": "2025-08-25 00:44:42 +0000"
     },
     "done": true
   },
