@@ -3005,9 +3005,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2025-08-24 23:56:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-25 00:38:03 +0000"
     },
     "done": true
   },
@@ -3023,9 +3053,51 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-08-25 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-08-25 00:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-25 00:31:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-08-24 23:42:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-08-25 00:40:04 +0000"
     },
     "done": true
   },
@@ -3065,9 +3137,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-25 00:38:03 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sculptor_challenge": {
     "criteria": {
       "sculptor_challenge": "2025-08-24 23:30:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-08-25 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-08-25 00:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-25 00:38:03 +0000"
     },
     "done": true
   },
