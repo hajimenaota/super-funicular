@@ -874,6 +874,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-08-24 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-08-24 23:59:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-24 23:47:56 +0000"
@@ -883,6 +895,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-08-24 23:47:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
     },
     "done": true
   },
@@ -915,6 +933,24 @@
       "has_string": "2025-08-24 23:47:56 +0000"
     },
     "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-24 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-08-24 23:55:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
@@ -964,6 +1000,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-24 23:47:56 +0000"
@@ -994,6 +1042,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-24 23:47:56 +0000"
@@ -1003,6 +1057,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-24 23:47:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-08-24 23:55:40 +0000"
     },
     "done": true
   },
@@ -1030,9 +1090,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-08-24 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-08-24 23:55:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-08-24 23:51:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
     },
     "done": true
   },
@@ -1045,6 +1141,18 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-08-24 23:38:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-25 00:00:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-24 23:55:55 +0000"
     },
     "done": true
   },
@@ -1069,6 +1177,12 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-08-24 23:40:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-08-24 23:59:09 +0000"
     },
     "done": true
   },
