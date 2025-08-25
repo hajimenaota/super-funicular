@@ -6,3 +6,19 @@
 [25Aug2025 00:02:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie was slain by DMkingo
 [25Aug2025 00:02:44.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Mutant Creeper
 [25Aug2025 00:03:23.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved wrongly!
+[25Aug2025 00:05:28.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30963, l='ServerLevel[world]', x=227.34, y=138.00, z=-445.06] died, message: 'Villager was slain by Zombie Villager'
+[25Aug2025 00:11:12.002] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.110 ms. 2986/3030 recipes are parallelized.
+[25Aug2025 00:11:35.423] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/equipment/clipboard/ClipboardOverrides$ClipboardType
+[25Aug2025 00:16:25.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/30918, l='ServerLevel[world]', x=173.89, y=118.00, z=-449.54] died, message: 'Farmer hit the ground too hard'
+[25Aug2025 00:17:03.020] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/exposure/camera/infrastructure/FlashMode
+[25Aug2025 00:17:18.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[25Aug2025 00:21:30.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[25Aug2025 00:21:31.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved too quickly! 1298.1641722005156,-109.92159999847412,-3342.961947318614
+[25Aug2025 00:21:43.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
+[25Aug2025 00:21:49.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[25Aug2025 00:21:55.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved too quickly! 10.116123652948545,-0.13015778990043447,-1.6445756394464297
+[25Aug2025 00:22:16.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo moved too quickly! 1297.4693492191548,-109.92159999847412,-3342.7652807599457
+[25Aug2025 00:22:39.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Shield] to OmegaQesm_]
+[25Aug2025 00:22:51.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ blew up
+[25Aug2025 00:22:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie blew up
+[25Aug2025 00:23:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
