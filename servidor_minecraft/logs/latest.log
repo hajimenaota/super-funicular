@@ -22,3 +22,28 @@
 [25Aug2025 00:22:51.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ blew up
 [25Aug2025 00:22:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie blew up
 [25Aug2025 00:23:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
+[25Aug2025 00:24:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo blew up
+[25Aug2025 00:24:03.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ blew up
+[25Aug2025 00:24:35.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ blew up
+[25Aug2025 00:24:43.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[25Aug2025 00:24:45.300] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[25Aug2025 00:25:17.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[25Aug2025 00:25:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Cloud in a Bottle] to OmegaQesm_]
+[25Aug2025 00:25:47.826] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 102.0 μs. 171/171 recipes are parallelized.
+[25Aug2025 00:25:54.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo moved too quickly! 1297.8851787463523,-109.92159999847412,-3342.934368321461
+[25Aug2025 00:26:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[25Aug2025 00:26:06.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[25Aug2025 00:26:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> asd
+[25Aug2025 00:27:00.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Cloud in a Bottle] to OmegaQesm_]
+[25Aug2025 00:27:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Cloud in a Bottle] to OmegaQesm_]
+[25Aug2025 00:27:20.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ blew up
+[25Aug2025 00:27:25.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[25Aug2025 00:28:56.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
+[25Aug2025 00:30:02.759] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[25Aug2025 00:30:39.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/ai/goal/NagaMovementPattern$MovementState
+[25Aug2025 00:31:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
+[25Aug2025 00:32:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
+[25Aug2025 00:32:51.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[25Aug2025 00:32:55.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[25Aug2025 00:32:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
+[25Aug2025 00:34:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Naga
