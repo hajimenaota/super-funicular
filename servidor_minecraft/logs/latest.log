@@ -98,3 +98,7 @@
 [25Aug2025 00:53:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
 [25Aug2025 00:53:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported 3 entities to OmegaQesm_]
 [25Aug2025 00:54:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie was doomed to fall by Death Tome
+[25Aug2025 00:55:08.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[25Aug2025 00:55:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[25Aug2025 00:55:10.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lafizamovie lost connection: Disconnected
+[25Aug2025 00:55:10.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie left the game
